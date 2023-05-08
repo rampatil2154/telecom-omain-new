@@ -1,3 +1,7 @@
 new d file create
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 613fea48d711f7fcb8e2aa61e4f0c73da9648e6b
 some changes here
